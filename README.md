@@ -22,3 +22,5 @@
 &emsp; Made using Cultural Algorithm <br/>
 &emsp; Packages used : sklearn, Pandas, Numpy <br/>
 &emsp; Accuracy : 90% <br/>
+
+- Conclusion : PSO > GA = CA > ACO
