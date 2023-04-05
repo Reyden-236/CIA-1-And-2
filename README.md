@@ -1,5 +1,5 @@
-#CIA 1
+## CIA 1
 - Sequence Alignment using affine gap penalty
 
 
-# CIA 2
+## CIA 2
